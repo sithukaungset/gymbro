@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#000000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="83dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="184dp"
+        android:src="@drawable/squatrack"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:src="@drawable/dumbellsquad"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="77dp"
+        android:src="@drawable/legextension"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/legcurl"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="69dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/legpush"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="100dp"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="160dp"
+        android:src="@drawable/sumosquad"
+        android:visibility="visible" />
+
+
+
+</RelativeLayout>

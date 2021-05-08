@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="151dp"
+        android:layout_height="97dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/inclinebenchpress"
+        android:visibility="visible" />
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="151dp"
+        android:layout_height="85dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="185dp"
+        android:src="@drawable/benchpressdumbell"
+        android:visibility="visible" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="104dp"
+        android:layout_height="73dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/butterflychest"
+        android:visibility="visible" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="151dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="74dp"
+        android:src="@drawable/cabley"
+        android:visibility="visible" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="151dp"
+        android:layout_height="124dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="124dp"
+        android:src="@drawable/chestpressmachine"
+        android:visibility="visible" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+
+        android:layout_width="151dp"
+        android:layout_height="103dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:src="@drawable/dip"
+        android:visibility="visible" />
+
+
+</RelativeLayout>
