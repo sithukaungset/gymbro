@@ -26,8 +26,8 @@ Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back,
 
 Gym Time                |Calendar for Gym schedules                
 :-------------------------:|:-------------------------:
-![Gym Time](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
+![Gym Time](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-35.png)
 
 Nutrition               |Daily Protein suggestions                
 :-------------------------:|:-------------------------:
-![Nutrition](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
+![Nutrition](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-43.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
