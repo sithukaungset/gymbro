@@ -20,10 +20,14 @@ For development, Android Studio with gradle is used. The best way to test this p
 - Nutrition Tracker (Calorie Counter)
 
 ## ScreenShots
-3D AR object with webcam                   |3D AR object with webcam              
+Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back, Legs and Abs)              
 :-------------------------:|:-------------------------:
-![Entry Steps](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-29.png) | ![App Intro](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-36.png)
+![Exercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-29.png) | ![DifferentExercises](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-39-36.png)
 
-3D AR object with iphone camera                |3D AR object with iphone camera                
+Gym Time                |Calendar for Gym schedules                
 :-------------------------:|:-------------------------:
-![Home Sscreen](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Entry Info](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
+![Gym Time](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![Calendar](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
+
+Nutrition               |Daily Protein suggestions                
+:-------------------------:|:-------------------------:
+![Nutrition](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-30.png) | ![DailyProtein](https://github.com/sithukaungset/gymbro/blob/main/gymbro_photos/Screenshot%20from%202022-05-16%2010-40-49.png)
