@@ -17,7 +17,7 @@ For development, Android Studio with gradle is used. The best way to test this p
 ## Features
 - All types of workout (chest, shoulder, back, legs, biceps, triceps and abs workouts)
 - Calendar for workout schedules
-- Nutrition Tracker (Calorie Counter)
+- Nutrition Tracker (Calorie Counter) and many more
 
 ## ScreenShots
 Exercises                   |Exercises (Chest, Shoulder, Bicep and Tricep, Back, Legs and Abs)              
