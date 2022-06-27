@@ -2,7 +2,7 @@
 
 Don't worry if you are beginner at gym. You don't need personal trainer or other gym partners to have a great work out at gym.
 Gymbro is here for you to teach you how to properly use gym equipments, dumbbells and barbells.
-Yeah Buddy, Light Weight! Light Weight Baby!!! 
+Yeah Buddy, Light Weight! Light Weight Baby!
 
 ## About the app
 Fitness application that shows all kinds of workouts (chest, shouler, back, legs, biceps, triceps and abs workouts) using simple and easy gifs.
